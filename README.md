@@ -4,7 +4,6 @@ An R shiny based tool used for single cell RNA-seq data visualization and analys
 ## Tutorial
 For more details and basic usage see following tutorials:  
 [User manual for scDVA](https://github.com/liziyie/scDVA/blob/master/www/User%20Manual%20of%20scDVA.pdf)  
-
 You can use username : userA and password : passwordA by default.
 
 ## Example
