@@ -7,7 +7,7 @@ For more details and basic usage see following tutorials:
 You can use username : userA and password : passwordA by default.
 
 ## Example
-An example website built with scDVA is .
+A running demo of scDVA is on [scDVA](not ready)(https://google.com).
 
 ## Contact
 Please contact us:  
