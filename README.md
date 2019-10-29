@@ -4,6 +4,6 @@
  
  For more instructions, please download the user manual file in www/ directory.
 
-![Page Layout](https://github.com/liziyie/scDVA/tree/master/img/page_layout.jpg)
+![Page Layout](/img/page_layout.jpg)
 
-![Figures plot](https://github.com/liziyie/scDVA/tree/master/img/plot.jpg)
+![Figures plot](/img/plot.jpg)
