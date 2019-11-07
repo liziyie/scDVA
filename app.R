@@ -1271,7 +1271,7 @@ server <- function(input, output, session) {
       pdf(
         file,
         width = 1.2 * InputValue$plot_width / 80,
-        height = 0.5 * InputValue$plot_height / 160
+        height = 0.5 * InputValue$plot_height / 80
       )
       plot(
         DoDistributionPlot(
@@ -1413,7 +1413,7 @@ server <- function(input, output, session) {
       pdf(
         file,
         width = 1.2 * InputValue$plot_width / 80,
-        height = 0.6 * InputValue$plot_height / 160
+        height = 0.6 * InputValue$plot_height / 80
       )
       DoHeatmapPlot(
         plot.data = InputValue$plot_data,
@@ -1591,7 +1591,7 @@ server <- function(input, output, session) {
     content = function(file) {
       pdf(file,
           width = InputValue$plot_width / 80,
-          height = InputValue$plot_height)
+          height = InputValue$plot_height / 80)
       plot(
         DoMetadataPlot(
           plot.data = InputValue$plot_data,
