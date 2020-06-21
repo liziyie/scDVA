@@ -7,7 +7,7 @@ For more details and basic usage see following tutorials:
 You can use username : userA and password : passwordA by default.
 
 ## Example
-A running demo of scDVA is on [scDVA](https://google.com)(not ready yet).
+A running demo of scDVA is on [scDVA](http://crcleukocyte.cancer-pku.cn/)
 
 ## Contact
 Please contact us:  
